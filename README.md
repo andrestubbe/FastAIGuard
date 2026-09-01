@@ -1,3 +1,6 @@
+> [!WARNING]
+> **🚧 WIP — Active AI Pipeline Construction & Architecture Optimization in Progress.**
+
 # FastAIGuard 0.1.0 [ALPHA] — Deterministic Sub-Millisecond AI Security Firewall for Java
 
 [![Status](https://img.shields.io/badge/status-0.1.0-brightgreen.svg)](https://github.com/andrestubbe/FastAIGuard/releases/tag/0.1.0)
