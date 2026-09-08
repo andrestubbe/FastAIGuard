@@ -15,6 +15,8 @@
 
 **FastAIGuard** is a hardware-speed AI security firewall designed to protect LLMs, autonomous agents (**[FastAIAgent](https://github.com/andrestubbe/FastAIAgent)**), and sidecar tool bridges (**[FastIntegrate](https://github.com/andrestubbe/FastIntegrate)**) against prompt injections, jailbreaks, data exfiltration, and unauthorized OS commands with sub-10 microsecond deterministic inspection latencies.
 
+[Watch Demo (YouTube)] | [Watch JMH Benchmark (Youtube)]
+
 ---
 
 ## Quick Start
